@@ -38,3 +38,5 @@ chap05/model/model5-3-gamma.stan
 yndk/ch04/model/model_equal_sd.stan
 yndk/ch04/model/model_equal_sd_delta.stan
 yndk/ch04/model_unequal_sd.stan
+chap04/model/model4-4
+.DS_Store
