@@ -45,3 +45,5 @@ yndk/ch04/run-exercise4-t_test.html
 yndk/bernoulli/.ipynb_checkpoints/*
 yndk/bernoulli/beta_bernoulli_v2.stan
 yndk/ch05/.ipynb_checkpoints/*
+chap05/output/*
+chap05/output/fig5-3-right.py.png
